@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+}
+
+.home {
+  background-color: #28293e;
+}
+
+.intro {
+  display: inline-block;
+  width: 60%;
+  padding: 78px 142px 100px 135px;
+  font-family: "Epilogue";
+  font-style: normal;
+}
+
+.name {
+  font-weight: 800;
+  font-size: 72px;
+  line-height: 80px;
+  color: #ffffff;
+}
+.job {
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 32px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #ef6d58;
+}
+
+.description {
+  font-size: 1rem;
+  line-height: 32px;
+  color: rgba(255, 255, 255, 0.64);
+}
+
+.intro .seework {
+  background: #ef6d58;
+  border-radius: 6px;
+  border: 0;
+  height: 48px;
+  width: 154px;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.img_profile {
+  display: inline-block;
+  width: 30%;
+  height: 466px;
+  padding: 30px;
+}
+
+.profile {
+  width: 300px;
+  margin-right: 100px;
+  margin-bottom: 260px;
+}
